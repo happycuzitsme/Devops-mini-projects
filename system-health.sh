@@ -1,6 +1,6 @@
 #!/bin/bash
 # System Resource Monitor - DevOps Week 2 Project
-# Author: Your Name
+# Author: happycuzitsme
 # Date: February 2026
 
 # Color codes for output
